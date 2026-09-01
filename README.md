@@ -122,6 +122,7 @@ AI Tools • Visual Creation • Digital Content
 <p align="center">
   <strong>More projects and public repositories are currently being developed.</strong>
 </p>
+
 ---
 
 ## CURRENTLY LEARNING
@@ -149,16 +150,95 @@ I focus on understanding problems, building useful solutions, experimenting with
 
 ---
 
-## AREAS OF INTEREST
+<h2 align="center">AREAS OF INTEREST</h2>
 
-| AREA | FOCUS |
-|:---|:---|
-| 💻 Software Development | Web applications, desktop applications, and practical software |
-| 🌐 Web Technology | PHP, JavaScript, HTML5, CSS3, responsive websites |
-| 🐍 Python | Programming, automation, experimentation, and AI |
-| 🤖 Artificial Intelligence | AI-assisted creativity and digital production |
-| 🛠️ Technology | Hardware service, software installation, and troubleshooting |
-| ✍️ Creative Technology | Writing, visual content, animation, and digital projects |
+<table align="center">
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/code-slash.svg" width="40" height="40" alt="Software Development">
+
+<h3>Software Development</h3>
+
+<p>
+Web applications, desktop applications,
+and practical software solutions.
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/globe2.svg" width="40" height="40" alt="Web Technology">
+
+<h3>Web Technology</h3>
+
+<p>
+PHP, JavaScript, HTML5, CSS3,
+and responsive websites.
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="40" height="40" alt="Python">
+
+<h3>Python</h3>
+
+<p>
+Programming, automation,
+experimentation, and AI.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/robot.svg" width="40" height="40" alt="Artificial Intelligence">
+
+<h3>Artificial Intelligence</h3>
+
+<p>
+AI-assisted creativity,
+digital production, and experimentation.
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/tools.svg" width="40" height="40" alt="Technology">
+
+<h3>Technology</h3>
+
+<p>
+Hardware service, software installation,
+and troubleshooting.
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/pen.svg" width="40" height="40" alt="Creative Technology">
+
+<h3>Creative Technology</h3>
+
+<p>
+Writing, visual content,
+animation, and digital projects.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
