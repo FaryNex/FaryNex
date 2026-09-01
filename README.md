@@ -4,159 +4,138 @@
   <img src="./farynex-banner.png" alt="FaryNex" width="100%">
 </p>
 
+# FaryNex
+
 <p align="center">
   <strong>DEVELOPER • DIGITAL CREATOR • WRITER</strong>
 </p>
 
 <p align="center">
-  Informatics Engineering Student focused on technology, software development,
-  AI creativity, and digital projects.
+  Informatics Engineering Student focused on software development,
+  web applications, digital technology, and AI-powered creativity.
 </p>
 
 <p align="center">
   <a href="https://github.com/FaryNex">
-    <img src="https://img.shields.io/badge/GitHub-FaryNex-181717?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-FaryNex-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Focus-Technology-C99A2E?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-C99A2E?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Technology-C99A2E?style=flat-square" alt="Technology">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-C99A2E?style=flat-square" alt="Always Learning">
 </p>
 
 ---
 
-<h2 align="center">TECH STACK</h2>
+## TECH STACK
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/php.svg" height="42" alt="PHP">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" height="42" alt="Python">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/csharp.svg" height="42" alt="C#">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" height="42" alt="JavaScript">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" height="42" alt="HTML5">
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" height="42" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/php/php-original.svg" width="48" height="48" alt="PHP">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="48" height="48" alt="Python">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3">
+</p>
+
+<p align="center">
+  <sub>PHP • Python • C# • JavaScript • HTML5 • CSS3</sub>
 </p>
 
 ---
 
-<h2 align="center">WHAT I DO</h2>
+## WHAT I DO
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-<b>WEB & APP</b><br>
-Web Development<br>
-Application Development
-
-</td>
-
-<td align="center" width="25%">
-
-<b>TECHNOLOGY</b><br>
-Hardware Service<br>
-Software Installation
-
-</td>
-
-<td align="center" width="25%">
-
-<b>AI CREATIVE</b><br>
-AI Images<br>
-AI Animation
-
-</td>
-
-<td align="center" width="25%">
-
-<b>CREATIVE</b><br>
-Book Writing<br>
-Digital Content
-
-</td>
-</tr>
-</table>
+| WEB & APPLICATION | TECHNOLOGY | AI CREATIVE | DIGITAL CREATIVE |
+|:---:|:---:|:---:|:---:|
+| Web Development | Hardware Service | AI Images | Book Writing |
+| Application Development | Software Installation | AI Animation | Digital Content |
+| Business Websites | Computer Troubleshooting | AI-assisted Creation | Creative Projects |
 
 ---
 
-<h2 align="center">FEATURED PROJECTS</h2>
+## FEATURED PROJECTS
 
-<table align="center">
-<tr>
+### 🌐 Web Development
 
-<td width="50%" valign="top">
+Independent websites and web-based solutions developed for personal, business, and practical digital needs.
 
-### 🌐 Web Projects
-
-Independent websites and digital solutions created for personal and business purposes.
-
-**Focus:**  
-PHP • HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%" valign="top">
+**Core:** PHP • HTML5 • CSS3 • JavaScript
 
 ### 💼 Digital Business
 
-Technology-based projects and independent digital services developed around practical ideas.
+Technology-driven projects and independent digital services focused on practical solutions, usability, and creativity.
 
-**Focus:**  
-Technology • Digital Services • Creativity
+**Focus:** Digital Services • Technology • Business Solutions
 
-</td>
+### 🤖 AI & Digital Creation
 
-</tr>
-</table>
+Exploring the use of artificial intelligence for image creation, animation, visual content, and creative workflows.
 
-<p align="center">
-  <i>🚧 More projects are currently being built.</i>
-</p>
+**Focus:** AI Tools • Visual Creation • Digital Content
+
+> 🚧 More projects and public repositories are currently being developed.
 
 ---
 
-<h2 align="center">CURRENTLY LEARNING</h2>
+## CURRENTLY LEARNING
 
-<p align="center">
-  Web Development • Application Development • Python • PHP • JavaScript
-  • Artificial Intelligence • Digital Creation
-</p>
-
----
-
-<h2 align="center">ABOUT FARYNEX</h2>
-
-<p align="center">
-  <strong>Learn • Create • Evolve</strong>
-</p>
-
-<p align="center">
-  I believe technology is not only about writing code,
-  but also about <strong>solving problems, creating useful things,
-  and turning ideas into reality.</strong>
-</p>
+- Web Application Development
+- Software & Application Development
+- PHP & JavaScript
+- Python
+- C#
+- Artificial Intelligence
+- Digital Product Development
+- Modern Development Workflows
 
 ---
 
-<h2 align="center">CONNECT</h2>
+## DEVELOPMENT PHILOSOPHY
+
+> **Learn • Create • Evolve**
+
+Technology is more than writing code.
+
+I focus on understanding problems, building useful solutions, experimenting with new technologies, and continuously improving through real-world projects.
+
+**Build with purpose. Learn continuously. Create something useful.**
+
+---
+
+## AREAS OF INTEREST
+
+| AREA | FOCUS |
+|:---|:---|
+| 💻 Software Development | Web applications, desktop applications, and practical software |
+| 🌐 Web Technology | PHP, JavaScript, HTML5, CSS3, responsive websites |
+| 🐍 Python | Programming, automation, experimentation, and AI |
+| 🤖 Artificial Intelligence | AI-assisted creativity and digital production |
+| 🛠️ Technology | Hardware service, software installation, and troubleshooting |
+| ✍️ Creative Technology | Writing, visual content, animation, and digital projects |
+
+---
+
+## CONNECT
 
 <p align="center">
   <a href="https://github.com/FaryNex">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="32" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-FaryNex-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram">
 </p>
 
 <p align="center">
-  <sub>Email • Coming Soon &nbsp; | &nbsp; Portfolio • Coming Soon &nbsp; | &nbsp; Instagram • Coming Soon</sub>
+  <sub>
+    Email • Coming Soon &nbsp; | &nbsp;
+    Portfolio • Coming Soon &nbsp; | &nbsp;
+    Instagram • Coming Soon
+  </sub>
 </p>
 
-<br>
+---
 
 <p align="center">
   <strong>CODE • CREATE • BUILD</strong>
