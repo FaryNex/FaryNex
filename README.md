@@ -1,23 +1,42 @@
-<!-- ========================================================= -->
-<!--                    FARYNEX PROFILE                       -->
-<!-- ========================================================= -->
+<!-- ===================== FARYNEX PROFILE ===================== -->
 
 <p align="center">
-  <img src="./farynex-banner.png" alt="FaryNex Banner" width="100%">
-</p>
-
-<br>
-
-<h2 align="center">ABOUT ME</h2>
-
-<p align="center">
-  <strong>FaryNex</strong><br>
-  Informatics Engineering Student • Developer • Writer • AI Creator
+  <img src="./farynex-banner.png" alt="FaryNex" width="100%">
 </p>
 
 <p align="center">
-  I enjoy exploring technology, building digital projects,<br>
-  creating with AI, solving technical problems, and turning ideas into useful products.
+  <strong>DEVELOPER • DIGITAL CREATOR • WRITER</strong>
+</p>
+
+<p align="center">
+  Informatics Engineering Student focused on technology, software development,
+  AI creativity, and digital projects.
+</p>
+
+<p align="center">
+  <a href="https://github.com/FaryNex">
+    <img src="https://img.shields.io/badge/GitHub-FaryNex-181717?style=flat-square&logo=github">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Technology-C99A2E?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-C99A2E?style=flat-square">
+</p>
+
+---
+
+<h2 align="center">TECH STACK</h2>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="42" alt="PHP">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="42" alt="C#">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5">
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="42" alt="CSS3">
 </p>
 
 ---
@@ -25,259 +44,122 @@
 <h2 align="center">WHAT I DO</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
+<tr>
+<td align="center" width="25%">
 
-### DEVELOPMENT
+<b>WEB & APP</b><br>
+Web Development<br>
+Application Development
 
-Web Development  
-Application Development  
-PHP Native  
-Python  
-C#  
-JavaScript  
-HTML & CSS
+</td>
 
-    </td>
-    <td align="center" width="50%">
+<td align="center" width="25%">
 
-### TECHNOLOGY
+<b>TECHNOLOGY</b><br>
+Hardware Service<br>
+Software Installation
 
-Computer Hardware Service  
-Hardware Troubleshooting  
-Software Installation  
-Software Configuration  
-System Setup  
-Technical Support
+</td>
 
-    </td>
-  </tr>
+<td align="center" width="25%">
 
-  <tr>
-    <td align="center" width="50%">
+<b>AI CREATIVE</b><br>
+AI Images<br>
+AI Animation
 
-### AI & DIGITAL CREATIVE
+</td>
 
-AI Image Creation  
-AI Animation  
-AI Content Creation  
-Digital Visual Projects  
-Creative Experimentation
+<td align="center" width="25%">
 
-    </td>
-    <td align="center" width="50%">
+<b>CREATIVE</b><br>
+Book Writing<br>
+Digital Content
 
-### WRITING & BUSINESS
-
-Book Writing  
-Digital Content  
-Document & Typing Services  
-Independent Web Projects  
-Digital Business Projects
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">TECH STACK</h2>
-
-<h3 align="center">Programming Languages</h3>
-
-<p align="center">
-
-<img src="https://cdn.simpleicons.org/php/777BB4" width="50" height="50" alt="PHP">
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/python/3776AB" width="50" height="50" alt="Python">
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/csharp/239120" width="50" height="50" alt="C#">
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript">
-
-</p>
-
-<h3 align="center">Web Technologies</h3>
-
-<p align="center">
-
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="50" height="50" alt="HTML5">
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="50" height="50" alt="CSS3">
-
-</p>
-
----
-
-<h2 align="center">AREAS OF INTEREST</h2>
+<h2 align="center">FEATURED PROJECTS</h2>
 
 <table align="center">
-  <tr>
-    <td align="center"><strong>WEB</strong><br>Development</td>
-    <td align="center"><strong>APP</strong><br>Development</td>
-    <td align="center"><strong>AI</strong><br>Creative</td>
-    <td align="center"><strong>TECH</strong><br>Hardware</td>
-    <td align="center"><strong>WRITE</strong><br>Publishing</td>
-    <td align="center"><strong>BIZ</strong><br>Digital Business</td>
-  </tr>
-</table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-<h2 align="center">PROJECTS</h2>
+### 🌐 Web Projects
 
-<table>
-  <tr>
-    <td width="33%" align="center">
+Independent websites and digital solutions created for personal and business purposes.
 
-### WEB
+**Focus:**  
+PHP • HTML • CSS • JavaScript
 
-Independent websites and digital solutions for personal and business purposes.
+</td>
 
-    </td>
+<td width="50%" valign="top">
 
-    <td width="33%" align="center">
+### 💼 Digital Business
 
-### BUSINESS
+Technology-based projects and independent digital services developed around practical ideas.
 
-Technology-based business ideas and independent digital services.
+**Focus:**  
+Technology • Digital Services • Creativity
 
-    </td>
+</td>
 
-    <td width="33%" align="center">
-
-### AI CREATIVE
-
-AI-generated images, animation, and digital content experiments.
-
-    </td>
-  </tr>
+</tr>
 </table>
 
 <p align="center">
-  <i>More projects will be added as I continue building.</i>
+  <i>🚧 More projects are currently being built.</i>
 </p>
 
 ---
 
 <h2 align="center">CURRENTLY LEARNING</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      Web Development
-    </td>
-    <td align="center">
-      Application Development
-    </td>
-    <td align="center">
-      PHP
-    </td>
-    <td align="center">
-      Python
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      JavaScript
-    </td>
-    <td align="center">
-      Artificial Intelligence
-    </td>
-    <td align="center">
-      AI Digital Creation
-    </td>
-    <td align="center">
-      Entrepreneurship
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">MY GOAL</h2>
-
 <p align="center">
-  <strong>Learn continuously.</strong><br>
-  <strong>Create consistently.</strong><br>
-  <strong>Evolve with technology.</strong>
-</p>
-
-<p align="center">
-  My goal is to combine
-  <strong>technology, creativity, and entrepreneurship</strong>
-  to build useful digital products and develop an independent career in technology.
+  Web Development • Application Development • Python • PHP • JavaScript
+  • Artificial Intelligence • Digital Creation
 </p>
 
 ---
 
-<h2 align="center">GITHUB</h2>
+<h2 align="center">ABOUT FARYNEX</h2>
 
 <p align="center">
+  <strong>Learn • Create • Evolve</strong>
+</p>
 
-<img
-  src="https://img.shields.io/badge/GitHub-FaryNex-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-
-&nbsp;
-
-<img
-  src="https://img.shields.io/badge/Status-Actively%20Learning-F2C94C?style=for-the-badge"
-  alt="Learning"
-/>
-
-&nbsp;
-
-<img
-  src="https://img.shields.io/badge/Focus-Technology-F2C94C?style=for-the-badge"
-  alt="Technology"
-/>
-
+<p align="center">
+  I believe technology is not only about writing code,
+  but also about <strong>solving problems, creating useful things,
+  and turning ideas into reality.</strong>
 </p>
 
 ---
 
-<h2 align="center">CONNECT WITH ME</h2>
+<h2 align="center">CONNECT</h2>
 
 <p align="center">
-
-<a href="https://github.com/FaryNex">
-  <img
-    src="https://cdn.simpleicons.org/github/FFFFFF"
-    width="40"
-    height="40"
-    alt="GitHub"
-  >
-</a>
-
+  <a href="https://github.com/FaryNex">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="32" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32" alt="Instagram">
 </p>
 
 <p align="center">
-  <strong>GitHub:</strong> FaryNex
+  <sub>Email • Coming Soon &nbsp; | &nbsp; Portfolio • Coming Soon &nbsp; | &nbsp; Instagram • Coming Soon</sub>
 </p>
-
-<p align="center">
-  Email • Coming Soon<br>
-  Portfolio • Coming Soon<br>
-  Instagram • Coming Soon
-</p>
-
----
 
 <br>
 
 <p align="center">
-  <strong>CODE • CREATE • LEARN • BUILD</strong>
+  <strong>CODE • CREATE • BUILD</strong>
 </p>
 
 <p align="center">
