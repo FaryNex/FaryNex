@@ -26,17 +26,17 @@
 <h2 align="center">TECH STACK</h2>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="42" alt="PHP">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="42" alt="C#">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="42" alt="JavaScript">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="HTML5">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="42" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/php.svg" height="42" alt="PHP">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" height="42" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/csharp.svg" height="42" alt="C#">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/javascript.svg" height="42" alt="JavaScript">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/html5.svg" height="42" alt="HTML5">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/css3.svg" height="42" alt="CSS3">
 </p>
 
 ---
