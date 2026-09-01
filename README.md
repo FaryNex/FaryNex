@@ -163,5 +163,5 @@ Technology • Digital Services • Creativity
 </p>
 
 <p align="center">
-  <sub>© FaryNex — Learn • Create • Evolve</sub>
+  <sub>© FaryNex Learn • Create • Evolve</sub>
 </p>
