@@ -253,7 +253,7 @@ animation, and digital projects.
 <p align="center">
   <sub>
     Email • Coming Soon &nbsp; | &nbsp;
-    Portfolio • Available &nbsp; | &nbsp;
+    <a href="https://farynex.github.io/web-portfolio/">Portfolio</a> • Available &nbsp; | &nbsp;
     Instagram • Coming Soon
   </sub>
 </p>
