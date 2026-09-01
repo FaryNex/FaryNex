@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="./farynex-banner.png" alt="FaryNex Banner" width="100%">
+</p>
 # ⚡ FARYNEX
 
 ### 💻 Developer • ✍️ Writer • 🤖 AI Creator
