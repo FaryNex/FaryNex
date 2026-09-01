@@ -57,28 +57,71 @@
 
 ---
 
-## FEATURED PROJECTS
+<h2 align="center">FEATURED PROJECTS</h2>
 
-### 🌐 Web Development
+<table align="center">
+<tr>
 
-Independent websites and web-based solutions developed for personal, business, and practical digital needs.
+<td align="center" width="33%" valign="top">
 
-**Core:** PHP • HTML5 • CSS3 • JavaScript
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/globe2.svg" width="42" height="42" alt="Web Development">
 
-### 💼 Digital Business
+<h3>Web Development</h3>
 
-Technology-driven projects and independent digital services focused on practical solutions, usability, and creativity.
+<p>
+Independent websites and web-based solutions developed for personal,
+business, and practical digital needs.
+</p>
 
-**Focus:** Digital Services • Technology • Business Solutions
+<p>
+<strong>Core</strong><br>
+PHP • HTML5 • CSS3 • JavaScript
+</p>
 
-### 🤖 AI & Digital Creation
+</td>
 
-Exploring the use of artificial intelligence for image creation, animation, visual content, and creative workflows.
+<td align="center" width="33%" valign="top">
 
-**Focus:** AI Tools • Visual Creation • Digital Content
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/briefcase.svg" width="42" height="42" alt="Digital Business">
 
-> 🚧 More projects and public repositories are currently being developed.
+<h3>Digital Business</h3>
 
+<p>
+Technology-driven projects and independent digital services focused on
+practical solutions, usability, and creativity.
+</p>
+
+<p>
+<strong>Focus</strong><br>
+Digital Services • Technology • Business Solutions
+</p>
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/robot.svg" width="42" height="42" alt="AI and Digital Creation">
+
+<h3>AI &amp; Digital Creation</h3>
+
+<p>
+Exploring artificial intelligence for image creation, animation,
+visual content, and creative workflows.
+</p>
+
+<p>
+<strong>Focus</strong><br>
+AI Tools • Visual Creation • Digital Content
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <strong>More projects and public repositories are currently being developed.</strong>
+</p>
 ---
 
 ## CURRENTLY LEARNING
